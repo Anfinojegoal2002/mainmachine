@@ -35,7 +35,7 @@ const Header = () => {
         </div>
       </div>
 
-      {/* Logos Section */}
+    
       <div className='logos'>
         <ul className='logos-list'>
           {[company1, company2, company3, company4, company5, company6].map((logo, index) => (
